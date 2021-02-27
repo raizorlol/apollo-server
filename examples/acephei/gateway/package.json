@@ -17,7 +17,7 @@
     "@apollo/gateway": "^0.22.0"
   },
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   },
   "devDependencies": {
     "typescript": "3.9.7"
