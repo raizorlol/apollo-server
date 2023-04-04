@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@apollo/federation": "^0.21.0",
-    "dataloader": "^1.4.0"
+    "dataloader": "^2.0.0"
   },
   "engines": {
     "node": "12.x"
