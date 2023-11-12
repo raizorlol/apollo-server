@@ -55,7 +55,7 @@
     "graphql-extensions": "file:packages/graphql-extensions"
   },
   "devDependencies": {
-    "@types/async-retry": "1.4.2",
+    "@types/async-retry": "1.4.8",
     "@types/aws-lambda": "8.10.66",
     "@types/body-parser": "1.19.0",
     "@types/bunyan": "1.8.6",
